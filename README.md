@@ -1,6 +1,6 @@
 # About Me
 
-Hi there 👋 I’m **Sunanda Patra** — an aspiring **Data Analyst** passionate about transforming raw data into meaningful insights that drive smarter decisions.
+I’m **Sunanda Patra** — an **Data Analyst** passionate about transforming raw data into meaningful insights that drive smarter decisions.
 
 I enjoy working at the intersection of:
 
