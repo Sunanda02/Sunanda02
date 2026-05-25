@@ -26,25 +26,9 @@ I enjoy working with data, exploring patterns, and creating dashboards that make
 
 ## 🛠 Tech Stack
 
-**Languages**
-- Python
-- SQL
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-**Data Analysis Libraries**
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
 
-**Visualization Tools**
-- Power BI
-- Tableau
-- Excel
-
-**Tools & Platforms**
-- Jupyter Notebook
-- Git & GitHub
-- VS Code
 
 ---
 
