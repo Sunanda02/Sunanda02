@@ -75,7 +75,10 @@ If you’re looking for someone who is analytical, curious, detail-oriented, and
 📍 Based in India · Open to internships, collaborations, and opportunities in Data Analytics, Business Intelligence, and Analytics Engineering roles across Hyderabad, Bangalore, Pune, Bhubaneswar, and beyond.
 
 - LinkedIn: https://www.linkedin.com/in/sunanda-patra03  
-- Email: sunanda.patra21103@gmail.com  
+- Email: sunanda.patra21103@gmail.com
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sunanda-patra03/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Sunanda Patra) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sunanda.patra21103@gmail.com) 
+
 
 Thanks for scrolling ✨  
 If something here resonates with your team or project, I’d be happy to connect and continue the conversation.
