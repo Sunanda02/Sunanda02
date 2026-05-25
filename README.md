@@ -1,61 +1,96 @@
-# Hi there 👋 I'm Sunanda Patra
+# About Me
 
-🎯 Aspiring **Data Analyst** passionate about transforming raw data into meaningful insights that drive smarter decisions.
+Hi there 👋 I’m **Sunanda Patra** — an aspiring **Data Analyst** passionate about transforming raw data into meaningful insights that drive smarter decisions.
 
----
+I enjoy working at the intersection of:
 
-## 🚀 About Me
+- Data analytics & visualization  
+- Business insights & storytelling  
+- Problem-solving with real-world datasets  
+- Continuous learning in analytics and technology  
 
-I am currently building my journey in **Data Analytics**, focusing on learning how to collect, process, analyze, and visualize data to solve real-world problems.
+I like finding patterns in complex datasets, building dashboards that simplify information, and turning data into actionable insights. My learning journey is guided by three principles:
 
-I enjoy working with data, exploring patterns, and creating dashboards that make complex information easy to understand.
-
----
-
-## 📊 Focus Areas
-
-- Data Cleaning & Data Wrangling  
-- Exploratory Data Analysis (EDA)  
-- Data Visualization & Dashboarding  
-- Statistical Analysis  
-- Business Insights from Data  
-- SQL-based Data Querying  
-- Predictive Analytics Fundamentals  
+- **Clarity over complexity** – simple, understandable, and meaningful analysis  
+- **Insights over assumptions** – decisions backed by data and evidence  
+- **Growth through consistency** – learning, building, and improving every day  
 
 ---
 
-## 🛠 Tech Stack
+## 🧩 How I Work
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- I enjoy understanding the complete data flow — from data collection and cleaning to analysis and visualization.
+- I focus on creating dashboards and reports that are both insightful and easy to understand.
+- I like exploring trends, identifying patterns, and converting raw data into practical business insights.
+- I believe organization, documentation, and consistency are as important as technical skills.
+- I’m always eager to learn new tools, techniques, and approaches in analytics and data science.
 
-
+If you’re looking for someone who is analytical, curious, detail-oriented, and committed to continuous learning — that’s where I’m happiest.
 
 ---
 
-## 🌱 Currently Working On
+## 🛠️ Core Stack & Tools
 
-- Improving **data cleaning and EDA skills**
-- Practicing **SQL queries for real datasets**
-- Learning **data visualization and dashboard design**
-- Strengthening **Python for data analysis**
-- Exploring **machine learning basics for analytics**
+### **Programming Languages**
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### **Data Analysis & Libraries**
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Seaborn  
+
+### **Visualization & Dashboarding**
+- Power BI  
+- Tableau  
+- Excel  
+
+### **Tools & Platforms**
+- Jupyter Notebook  
+- Git & GitHub  
+- VS Code  
+
+---
+
+## ✶ ✶ ✶
+
+## 🧠 What You Can Expect From Me
+
+- **Curiosity** – I enjoy exploring data and uncovering meaningful insights.  
+- **Consistency** – Focused on continuous improvement through hands-on learning.  
+- **Problem Solving** – Turning messy data into clear and useful information.  
+- **Communication** – Presenting insights in a simple, visual, and impactful way.  
+- **Adaptability** – Open to learning new technologies and analytical approaches.  
+
+---
+
+## 📌 Currently
+
+- Improving data cleaning and exploratory data analysis (EDA) skills  
+- Practicing SQL queries using real-world datasets  
+- Learning dashboard design and data visualization techniques  
+- Strengthening Python for data analysis and automation  
+- Exploring machine learning fundamentals for analytics  
 
 ---
 
 ## 📈 Goals
 
-- Build strong real-world **data analysis projects**
-- Contribute to **open-source data projects**
-- Develop impactful **data dashboards**
-- Become a professional **Data Analyst**
+- Build impactful real-world data analysis projects  
+- Develop strong dashboarding and visualization skills  
+- Contribute to open-source and data-focused projects  
+- Grow into a professional Data Analyst capable of solving business problems with data  
 
 ---
 
-## 🤝 Connect With Me
+## 📬 Let’s Talk
 
-- LinkedIn: https://www.linkedin.com/in/sunanda-patra03
-- Email: sunanda.patra21103@gmail.com
+📍 Based in India · Open to internships, collaborations, and opportunities in Data Analytics, Business Intelligence, and Analytics Engineering roles across Hyderabad, Bangalore, Pune, Bhubaneswar, and beyond.
 
----
+- LinkedIn: https://www.linkedin.com/in/sunanda-patra03  
+- Email: sunanda.patra21103@gmail.com  
 
-⭐ *Always learning, always analyzing.*
+Thanks for scrolling ✨  
+If something here resonates with your team or project, I’d be happy to connect and continue the conversation.
