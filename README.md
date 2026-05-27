@@ -147,6 +147,8 @@ If you’re looking for someone who is analytical, curious, detail-oriented, and
   
    [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sunanda-patra03/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sunanda.patra21103@gmail.com) 
 
+
+
 <div align="center">
 
 Based in India · Open to opportunities in Kolkata, Hyderabad, Bangalore, Pune, Delhi and beyond
