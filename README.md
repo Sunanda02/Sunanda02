@@ -1,5 +1,14 @@
-<img width="1500" height="1196" alt="p1" src="https://github.com/user-attachments/assets/8a615ef9-39e8-406e-a844-a433b0b81a9c" />
 
+<div align="center">
+
+<img width="850" alt="Data Analytics Banner" src="https://github.com/user-attachments/assets/5b2ae8cf-e5e6-4a06-b9f0-8a49e3cb4d8b" />
+
+</div>
+
+---
+
+
+---
 
 # About Me
 
