@@ -6,7 +6,11 @@
 </div>
 
 ---
+<div align="center">
 
+### <sub><i>Data Analytics • Visualization • Business Intelligence</i></sub>
+
+</div>
 
 ---
 
@@ -43,7 +47,7 @@ If you’re looking for someone who is analytical, curious, detail-oriented, and
 
 ## 🛠️ Core Stack & Tools
 
-# 💻 Tech Stack:
+# Tech Stack:
 
 ## Programming Languages
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -82,18 +86,20 @@ If you’re looking for someone who is analytical, curious, detail-oriented, and
 
 
 
+• Programming & Query Languages: Python, SQL, R
 
-• Backend & Development: FastAPI, Node.js, React, Next.js, REST APIs, TypeScript, JavaScript
+• Data Analysis & Visualization: Pandas, NumPy, SciPy, Matplotlib, Seaborn, Plotly, Power BI, Tableau, Excel, Google Sheets
 
-• Data Analytics & Visualization: Python, SQL, Pandas, NumPy, Matplotlib, Seaborn, Power BI, Tableau, Excel
+• Machine Learning & Analytics: Scikit-learn, TensorFlow, PyTorch, Keras, MLflow, Predictive Analytics, Statistical Analysis
 
-• Machine Learning & AI: Scikit-learn, TensorFlow, PyTorch, Keras, MLflow, Predictive Analytics
+• Databases & Data Processing: MySQL, PostgreSQL, MongoDB, ETL, Data Cleaning, Data Wrangling, Data Preprocessing
 
-• Cloud & DevOps: AWS, Azure, Docker, CI/CD (GitHub Actions), OpenStack, Vercel
+• Cloud & Big Data: AWS, Azure, Google Cloud, Hadoop, Spark
 
-• Computer Vision & Automation: OpenCV, Selenium
+• Tools & Platforms: Jupyter Notebook, Git, GitHub, VS Code, Linux
 
-• Tools & Platforms: Git, GitHub, Jupyter Notebook, VS Code, Linux
+• Business Intelligence & Reporting: KPI Reporting, Dashboard Design, Business Intelligence, Data Storytelling, Exploratory Data Analysis (EDA)
+
 
 
 
